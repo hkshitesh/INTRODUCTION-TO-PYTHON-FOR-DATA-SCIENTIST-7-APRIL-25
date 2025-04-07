@@ -7,3 +7,6 @@ https://drive.google.com/drive/folders/1AOug3MBzs8jUfwXazW-0yuLBJwvk1lE1?usp=sha
 
 ![image](https://github.com/user-attachments/assets/da347dc6-be25-45a1-aebf-719d908ed360)
 
+## Quiz 2 Leadboard
+
+![image](https://github.com/user-attachments/assets/9d6ed293-695b-40da-ab57-cc5226dc1635)
