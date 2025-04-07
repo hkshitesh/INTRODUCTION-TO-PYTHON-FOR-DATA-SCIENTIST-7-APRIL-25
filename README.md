@@ -1,3 +1,9 @@
 ## Google Drive Link for Google Colab Jupyter Notebook
 
 https://drive.google.com/drive/folders/1AOug3MBzs8jUfwXazW-0yuLBJwvk1lE1?usp=sharing
+
+
+## Quiz-1 Leadboard
+
+![image](https://github.com/user-attachments/assets/da347dc6-be25-45a1-aebf-719d908ed360)
+
