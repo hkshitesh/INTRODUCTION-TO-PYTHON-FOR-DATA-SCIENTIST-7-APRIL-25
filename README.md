@@ -10,3 +10,9 @@ https://drive.google.com/drive/folders/1AOug3MBzs8jUfwXazW-0yuLBJwvk1lE1?usp=sha
 ## Quiz 2 Leadboard
 
 ![image](https://github.com/user-attachments/assets/9d6ed293-695b-40da-ab57-cc5226dc1635)
+
+
+## Quiz 3 Leadboard
+
+![image](https://github.com/user-attachments/assets/3c921e1b-4237-49a5-9248-c0db85777504)
+
