@@ -19,3 +19,9 @@ https://drive.google.com/drive/folders/1AOug3MBzs8jUfwXazW-0yuLBJwvk1lE1?usp=sha
 ## Quiz 4 Leadboard
 
 ![image](https://github.com/user-attachments/assets/17cd0938-a314-44ab-a1ab-2206b8399721)
+
+
+## Tools to Install
+
+1. Python 3.11 or Above: https://www.python.org/downloads/
+2. Anaconda Navigator: https://www.anaconda.com/products/navigator
